@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a strong focus
 ## 🛠️ Skills
 
 - **Front-end Development:** React.js,Next.js, JavaScript, HTML, CSS, Tailwind CSS
-- **Blockchain Development:** Solidity, Hardhat, ethers.js
+- **Blockchain Development:** Solidity,Foundry, Hardhat, ethers.js
 - **Tools & Technologies:** Git, Firebase, MetaMask, Alchemy
 
 ## 📈 Current Projects
